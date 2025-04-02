@@ -1,0 +1,2 @@
+These are the first lines
+These are the secondary changes made to the file
